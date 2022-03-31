@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev001": "nodemon ./js/001-level8.js",
-    "dev002": "nodemon ./js/002-level8.js"
+    "dev002": "nodemon ./js/002-level8.js",
+    "dev003": "nodemon ./js/003-level8.js"
   },
   "keywords": [],
   "author": "",
