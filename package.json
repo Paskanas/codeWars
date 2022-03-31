@@ -8,7 +8,8 @@
     "dev001": "nodemon ./js/001-level8.js",
     "dev002": "nodemon ./js/002-level8.js",
     "dev003": "nodemon ./js/003-level8.js",
-    "dev004": "nodemon ./js/004-level8.js"
+    "dev004": "nodemon ./js/004-level8.js",
+    "dev005": "nodemon ./js/005-level8.js"
   },
   "keywords": [],
   "author": "",
