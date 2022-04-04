@@ -10,7 +10,12 @@
     "dev003": "nodemon ./js/003-level8.js",
     "dev004": "nodemon ./js/004-level8.js",
     "dev005": "nodemon ./js/005-level8.js",
-    "dev006": "nodemon ./js/006-level8.js"
+    "dev006": "nodemon ./js/006-level8.js",
+    "dev007": "nodemon ./js/007-level8.js",
+    "dev008": "nodemon ./js/008-level8.js",
+    "dev009": "nodemon ./js/009-level8.js",
+    "dev010": "nodemon ./js/010-level8.js",
+    "dev011": "nodemon ./js/011-level8.js"
   },
   "keywords": [],
   "author": "",
